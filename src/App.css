@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  background-image: url(https://media.istockphoto.com/id/867940676/photo/paper.jpg?s=612x612&w=0&k=20&c=Ydg6cz9HwfbI8zuT-Mr_4JVWg40zWdhgVkhjuj3fJM0=);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-weight: bold;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
